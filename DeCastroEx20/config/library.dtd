@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!ELEMENT library (book | journal | misc)*>
+<!ELEMENT book (title, editor, publisher?, volume?, year?)>
+<!ELEMENT journal (title, volume)>
+<!ELEMENT misc (author+, title, year, pages)>
+
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT editor (#PCDATA)>
+<!ELEMENT author (#PCDATA)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT pages (#PCDATA)>
+<!ELEMENT volume (#PCDATA | number)*>
+<!ELEMENT number (#PCDATA)>
+
+
+<!ATTLIST book id CDATA "2003-Blanken">
+<!ATTLIST journal id CDATA "TODS_1_2003">
+<!ATTLIST journal publ_year CDATA "2003">
+<!ATTLIST misc id1 CDATA "Dipl2002-12">
+<!ATTLIST misc id2 CDATA "TR2002-01-04">
