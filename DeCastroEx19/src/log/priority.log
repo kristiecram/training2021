@@ -1,0 +1,7 @@
+2021/08/19 18:17:30,557 PM [ INFO ] collectionLogger - Execute getCandy dispenser:org.ssglobal.training.codes.Queue@6326d182 day:1
+2021/08/19 18:17:30,563 PM [ INFO ] collectionLogger - Verification of day input
+2021/08/19 18:17:30,563 PM [ INFO ] collectionLogger - Determination of day
+2021/08/19 18:17:30,563 PM [ INFO ] collectionLogger - Execute Tues
+2021/08/19 18:17:30,564 PM [ INFO ] collectionLogger - Execute whole dispenser looping
+2021/08/19 18:17:30,564 PM [ INFO ] collectionLogger - Done dispenser looping
+2021/08/19 18:17:30,564 PM [ INFO ] collectionLogger - Exit without errors getCandy

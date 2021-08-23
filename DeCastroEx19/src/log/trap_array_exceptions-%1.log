@@ -1,0 +1,11 @@
+INFO | 2021-08-19 18:24:46,603 PM | TrapArray1.java | arrayTransact | Execute arrayTransact
+INFO | 2021-08-19 18:24:46,610 PM | TrapArray1.java | arrayTransact | Entering the loop
+INFO | 2021-08-19 18:24:46,611 PM | TrapArray1.java | arrayTransact | Executing the loop for the array size
+INFO | 2021-08-19 18:24:49,506 PM | TrapArray1.java | arrayTransact | Executing the loop for the value
+INFO | 2021-08-19 18:24:51,812 PM | TrapArray1.java | arrayTransact | CharSeq. Asking for another input
+INFO | 2021-08-19 18:24:51,813 PM | TrapArray1.java | arrayTransact | Executing the loop for the value
+INFO | 2021-08-19 18:24:53,642 PM | TrapArray1.java | arrayTransact | Double. Asking for another input
+INFO | 2021-08-19 18:24:53,643 PM | TrapArray1.java | arrayTransact | Executing the loop for the value
+INFO | 2021-08-19 18:24:54,473 PM | TrapArray1.java | arrayTransact | CharSeq. Asking for another input
+INFO | 2021-08-19 18:24:54,474 PM | TrapArray1.java | arrayTransact | Executing the loop for the value
+INFO | 2021-08-19 18:24:55,977 PM | TrapArray1.java | arrayTransact | Executing the loop for the value

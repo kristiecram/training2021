@@ -1,0 +1,5 @@
+ERROR | 2021-08-19 18:28:22,908 PM | TrapArray1.java | arrayTransact | Invalid size. Asking for another input
+ERROR | 2021-08-19 18:28:25,838 PM | TrapArray1.java | arrayTransact | Letter input. Asking for another input
+ERROR | 2021-08-19 18:28:28,956 PM | TrapArray1.java | arrayTransact | CharSeq. Asking for another input
+ERROR | 2021-08-19 18:28:30,107 PM | TrapArray1.java | arrayTransact | CharSeq. Asking for another input
+ERROR | 2021-08-19 18:28:35,965 PM | TrapArray1.java | arrayTransact | Bad index. Asking for another input
